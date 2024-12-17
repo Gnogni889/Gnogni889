@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gnogni889
+- 👋 Hi, I’m Giovanni De Francesco
 - 👀 I’m interested in Data Science
 - 📫 How to reach me gio.defrancesco19@icloud.com
 
